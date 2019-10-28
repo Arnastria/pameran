@@ -13,6 +13,7 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 | [gagahpangeran](#gagahpangeran)     |
 | [giovanism](#giovanism)             |
 | [laymonage](#laymonage)             |
+| [arnastria](#arnastria)             |
 
 ## Daftar proyek
 
@@ -89,6 +90,13 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
 
+### [arnastria][arnastria]
+
+- [hacky][hacky]\
+  Aplikasi hape fetch dari Hacker News. Sebenarnya dipake untuk contoh pattern BLOC Flutter.
+- [msyu-kai][msyu-kai]\
+  Aplikasi hape pembayaran tagihan kolektif pake gugle sheets.
+
 [ahmad-fauzan458]: https://github.com/ahmad-fauzan458
 [labddp0]: https://github.com/ahmad-fauzan458/LabDDP0
 [azharaiz]: https://github.com/azharaiz
@@ -116,3 +124,6 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 [tarungbot]: https://github.com/laymonage/TarungBot
 [tarunglab-ddp1]: https://github.com/laymonage/TarungLabDDP1
 [udtop-python]: https://github.com/laymonage/urbandictionary_top-python
+[arnastria]: https://github.com/Arnastria
+[hacky]: https://github.com/Arnastria/Hacky
+[msyu-kai]: https://github.com/Arnastria/msyu-kai
