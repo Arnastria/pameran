@@ -25,9 +25,9 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 ### [arnastria][arnastria]
 
 - [hacky][hacky]\
-  Aplikasi hape fetch dari Hacker News. Sebenarnya dipake untuk contoh pattern BLOC Flutter.
+  Aplikasi ponsel untuk *fetch* data dari Hacker News, dibuat sebagai contoh *pattern* BLoC di Flutter.
 - [msyu-kai][msyu-kai]\
-  Aplikasi hape pembayaran tagihan kolektif pake gugle sheets.
+  Aplikasi ponsel untuk pembayaran tagihan kolektif menggunakan Google Sheets.
 
 ### [azharaiz][azharaiz]
 
