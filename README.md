@@ -7,13 +7,13 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 | Nama                                |
 | ----------------------------------- |
 | [ahmad-fauzan458](#ahmad-fauzan458) |
+| [arnastria](#arnastria)             |
 | [azharaiz](#azharaiz)               |
 | [bungamaku](#bungamaku)             |
 | [fairuzi10](#fairuzi10)             |
 | [gagahpangeran](#gagahpangeran)     |
 | [giovanism](#giovanism)             |
 | [laymonage](#laymonage)             |
-| [arnastria](#arnastria)             |
 
 ## Daftar proyek
 
@@ -21,6 +21,13 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
 
 - [LabDDP0][labddp0]\
   Contoh soal lab python.
+
+### [arnastria][arnastria]
+
+- [hacky][hacky]\
+  Aplikasi hape fetch dari Hacker News. Sebenarnya dipake untuk contoh pattern BLOC Flutter.
+- [msyu-kai][msyu-kai]\
+  Aplikasi hape pembayaran tagihan kolektif pake gugle sheets.
 
 ### [azharaiz][azharaiz]
 
@@ -89,13 +96,6 @@ Daftar proyek (pribadi maupun kolaboratif) yang dikerjakan oleh anggota anakpaci
   Dasar-Dasar Pemrograman 1 (DDP 1) dari Tarung (Fasilkom UI 2017) untuk publik.
 - [urbandictionary_top-python][udtop-python]\
   Modul Python untuk mengambil definisi teratas suatu istilah dalam UrbanDictionary.
-
-### [arnastria][arnastria]
-
-- [hacky][hacky]\
-  Aplikasi hape fetch dari Hacker News. Sebenarnya dipake untuk contoh pattern BLOC Flutter.
-- [msyu-kai][msyu-kai]\
-  Aplikasi hape pembayaran tagihan kolektif pake gugle sheets.
 
 [ahmad-fauzan458]: https://github.com/ahmad-fauzan458
 [labddp0]: https://github.com/ahmad-fauzan458/LabDDP0
